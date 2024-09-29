@@ -1,0 +1,100 @@
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+  br {
+    display: none;
+  }
+
+  header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between !important;
+
+  }
+
+  #inp-box {
+    width: 100%;
+  }
+
+  form {
+    width: 380px !important;
+    /* margin-right: 40px; */
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .hahaha {
+    width: 100% !important;
+  }
+
+  #details {
+    width: 100% !important;
+    display: flex !important;
+    flex-wrap: nowrap !important;
+
+  }
+
+  #marketing {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin: 0px !important;
+  }
+
+  .content-box {
+    width: 100%;
+    margin: 20px;
+    /* margin: 20px; */
+  }
+
+  .autoplay {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  #markiting {
+    margin-bottom: 20px;
+  }
+
+  #digital-box {
+    width: 90% !important;
+    margin: auto;
+
+  }
+
+  #offical-box {
+    width: 320px;
+  }
+
+}
+
+
+
+  @media only screen and (min-width: 576px) and (max-width: 992px) {
+
+    #jaipur {
+      padding-top: 110px !important;
+      padding-left: 30px;
+    }
+
+    .image-lap {
+      top: 120px;
+    }
+
+    #image-box {
+      width: 100% !important;
+    }
+
+    .cricle-lap {
+      bottom: 48px !important;
+      right: -22px !important;
+    }
+
+    /* #markiting{
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+
+  .content-box{
+    width: 50% !important;
+   margin: 20px;
+  } */
+  }
